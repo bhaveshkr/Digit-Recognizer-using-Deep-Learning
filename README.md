@@ -1,4 +1,4 @@
-# Digit-Recognizer-using-Neural-Network
+# Digit Recognizer using Deep Learning
 Digit Recognizer using Deep Learning
 
 Kaggle Data Science competition
